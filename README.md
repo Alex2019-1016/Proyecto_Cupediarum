@@ -1,8 +1,5 @@
-# Pr_Cupediarum
+# Proyecto_Cupediarum
 Sistema de ventas para el Restaurante Nova (Restaurante ficticio)
-
-# Projecto_Cupediarum
-Sistema de ventas para el Restaurante Nova
 
 ## 1. Ficha del Equipo (Info Semana 1)
 *Esta sección formaliza la constitución del grupo de trabajo.*

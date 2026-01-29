@@ -29,7 +29,7 @@ de opciones que podrian hacer que el usuario agilice su trabajo. Esto genera alg
 
    ### La Solución Propuesta
 
-Desarrollar **"Cupediarum"**, un sistema responsivo que permita a los usuarios del restaurante interactuar
+Desarrollar **"Cupediarum"**, una aplicacion de escritorio, que permita a los usuarios del restaurante interactuar
 de forma mas sencilla y facil, registrar las ventas, llevar el control de las mesas y darle un mejor
 servicio al cliente.
 

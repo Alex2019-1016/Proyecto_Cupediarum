@@ -55,8 +55,8 @@ _____
 ## 4. Stack Tecnológico
 
 - **Lenguaje:** C#
-- **Frontend:** React.js + Tailwind CSS (Para diseño rápido responsive).
-- **Backend:** Node.js con Express.
+- **Frontend:** C# + Windows Forms, .NET
+- **Backend:** C# , SQL Server
 - **Base de Datos:** SQLSever
 - **Herramientas Extra:** GitHub Projects (para gestión de tareas).
 
